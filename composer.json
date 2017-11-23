@@ -1,0 +1,24 @@
+{
+    "name": "jakharbek/jakharbek-menu",
+    "description": "Меню",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","jakharbek","menu"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jakharbek",
+            "email": "javhar_work@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "extra": {
+        "bootstrap": "jakharbek\\menu\\Bootstrap"
+    },
+    "autoload": {
+        "psr-4": {
+            "jakharbek\\menu\\": "src"
+        }
+    }
+}

@@ -29,3 +29,6 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \jakharbek\menu\AutoloadExample::widget(); ?>```
+=======
+# jakharbek-menu-yii2
+Menu Yii2
